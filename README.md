@@ -17,9 +17,9 @@ Build product specifications as structured context cards with auto-generated flo
 
 ## The Problem: Spec Chaos
 
-AI can't fix broken specs. If your product requirements live in scattered docs, slides, and Slack threads — **you're building prompt debt**.
+AI can't fix broken specs. If your product requirements live in scattered docs, slides, and Slack threads; **you're building prompt debt**.
 
-Every hallucination. Every misalignment. Every "AI got it wrong" moment traces back to one thing: **unstructured context**.
+Every hallucination. Every misalignment. Every "AI got it wrong" moment traces back to one thing; **unstructured context**.
 
 ---
 
@@ -27,10 +27,10 @@ Every hallucination. Every misalignment. Every "AI got it wrong" moment traces b
 
 Compospec is a **specification intelligence platform** that transforms chaotic requirements into:
 
-- **6-level hierarchy** — Product → Module → UI → Section → Component → Element
-- **Card-based specifications** — Persistent, linked, version-controlled
-- **Auto-generated flow diagrams** — Visual representation of user journeys
-- **AI-ready semantic structure** — No prompt engineering required
+- **6-level hierarchy**: Product → Module → UI → Section → Component → Element
+- **Card-based specifications**: Persistent, linked, version-controlled
+- **Auto-generated flow diagrams**: Visual representation of user journeys
+- **AI-ready semantic structure**: No prompt engineering required
 
 ---
 
@@ -46,10 +46,10 @@ Your specs become a **semantic intelligence layer** — ready for AI agents, dev
 
 ## Use Cases
 
-- **Spec-driven development** — Start with structure, not chaos
-- **AI agent context** — Feed semantically rich specs to LLMs
-- **Cross-team alignment** — Single source of truth for product, design, engineering
-- **Legacy modernization** — Document existing systems with precision
+- **Spec-driven development**: Start with structure, not chaos
+- **AI agent context**: Feed semantically rich specs to LLMs
+- **Cross-team alignment**: Single source of truth for product, design, engineering
+- **Legacy modernization**: Document existing systems with precision
 
 ---
 
