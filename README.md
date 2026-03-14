@@ -40,13 +40,43 @@ Compospec is a **specification intelligence platform** that transforms chaotic r
 🔗 **Link** → Parent-child relationships across hierarchy  
 📊 **Flow** → Auto-generated diagrams from card connections
 
-Your specs become a **semantic intelligence layer** — ready for AI agents, developers, and stakeholders.
+Your specs become a **semantic intelligence layer** ready for AI agents, developers, and stakeholders.
+
+---
+
+## Why Compospec for AI-Native Pipelines
+
+AI code generation tools (Cursor, GitHub Copilot, v0.dev) work well for isolated components but fail at system-wide consistency.
+
+The problem isn't AI capability. It's **context persistence**.
+
+### The Three Failure Modes
+
+Most AI workflows break at three points:
+
+1. **Wrong Intent**: AI misinterprets vague specs
+2. **Wrong Visual**: Generated code doesn't match design system
+3. **Wrong Patterns**: Output doesn't fit codebase conventions
+
+### Compospec as Pre-AI Semantic Layer
+
+Instead of prompting AI directly, Compospec provides structured context that AI pipelines can query:
+
+**Hierarchical Cards** → preserve intent cascade and parent context flows to child cards  
+**Decision Subcards** → (coming Q2 2026) capture component behavior as queryable state machines  
+**Journey Maps** → maintain multi-step workflow context across the pipeline  
+**MCP Protocol Integration** → (coming Q1 2026) connects directly to Claude, Cursor, Figma MCP, Code Connect
+
+### Spec.md is a File. Compospec is a Schema.
+
+That's the difference between using AI and shipping with it.
 
 ---
 
 ## Use Cases
 
 - **Spec-driven development**: Start with structure, not chaos
+- **AI-native pipelines**: Pre-AI semantic layer for Cursor, Copilot, v0.dev workflows
 - **AI agent context**: Feed semantically rich specs to LLMs
 - **Cross-team alignment**: Single source of truth for product, design, engineering
 - **Legacy modernization**: Document existing systems with precision
